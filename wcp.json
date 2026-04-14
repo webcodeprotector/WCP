@@ -1,0 +1,5 @@
+[
+    { "username": "guest", "pwd": "1234", "expiry": "2099-12-31" },
+    { "username": "user1", "pwd": "pass1", "expiry": "2024-10-01" },
+    { "username": "user2", "pwd": "pass2", "expiry": "2023-01-01" }
+]
